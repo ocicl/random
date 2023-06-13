@@ -1,0 +1,10 @@
+* random
+
+ACM random number generator
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/brown/random.git   |
+| commit  | ec0e4ae  |
+| systems | random |
+|---------+-------------------------------------------|
+
